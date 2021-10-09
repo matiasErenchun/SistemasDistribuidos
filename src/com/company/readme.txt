@@ -1,0 +1,4 @@
+-para ejecutar el programa primero ejecutar el servidor el cual queda en espera de clientes.
+-luego ejecutar el cliente 
+	-al ejecutar el cliente pedira que se quiere hacer y segir las instrucciones dadas por el programa.
+	-la opcion 3 termina el programa  tanto ene ls ervidor como el cliente.
